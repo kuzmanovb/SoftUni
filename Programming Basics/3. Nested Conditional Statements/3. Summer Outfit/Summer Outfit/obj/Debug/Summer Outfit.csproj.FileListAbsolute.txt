@@ -1,7 +1,0 @@
-C:\Users\Bibi\source\repos\Summer Outfit\Summer Outfit\bin\Debug\Summer Outfit.exe.config
-C:\Users\Bibi\source\repos\Summer Outfit\Summer Outfit\bin\Debug\Summer Outfit.exe
-C:\Users\Bibi\source\repos\Summer Outfit\Summer Outfit\bin\Debug\Summer Outfit.pdb
-C:\Users\Bibi\source\repos\Summer Outfit\Summer Outfit\obj\Debug\Summer Outfit.csprojAssemblyReference.cache
-C:\Users\Bibi\source\repos\Summer Outfit\Summer Outfit\obj\Debug\Summer Outfit.csproj.CoreCompileInputs.cache
-C:\Users\Bibi\source\repos\Summer Outfit\Summer Outfit\obj\Debug\Summer Outfit.exe
-C:\Users\Bibi\source\repos\Summer Outfit\Summer Outfit\obj\Debug\Summer Outfit.pdb

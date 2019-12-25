@@ -1,7 +1,0 @@
-C:\Users\Bibi\source\repos\Cake\Cake\bin\Debug\Cake.exe.config
-C:\Users\Bibi\source\repos\Cake\Cake\bin\Debug\Cake.exe
-C:\Users\Bibi\source\repos\Cake\Cake\bin\Debug\Cake.pdb
-C:\Users\Bibi\source\repos\Cake\Cake\obj\Debug\Cake.csprojAssemblyReference.cache
-C:\Users\Bibi\source\repos\Cake\Cake\obj\Debug\Cake.csproj.CoreCompileInputs.cache
-C:\Users\Bibi\source\repos\Cake\Cake\obj\Debug\Cake.exe
-C:\Users\Bibi\source\repos\Cake\Cake\obj\Debug\Cake.pdb

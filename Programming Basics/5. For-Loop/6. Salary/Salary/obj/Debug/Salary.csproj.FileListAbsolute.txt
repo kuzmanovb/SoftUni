@@ -1,7 +1,0 @@
-C:\Users\Bibi\source\repos\Salary\Salary\bin\Debug\Salary.exe.config
-C:\Users\Bibi\source\repos\Salary\Salary\bin\Debug\Salary.exe
-C:\Users\Bibi\source\repos\Salary\Salary\bin\Debug\Salary.pdb
-C:\Users\Bibi\source\repos\Salary\Salary\obj\Debug\Salary.csprojAssemblyReference.cache
-C:\Users\Bibi\source\repos\Salary\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
-C:\Users\Bibi\source\repos\Salary\Salary\obj\Debug\Salary.exe
-C:\Users\Bibi\source\repos\Salary\Salary\obj\Debug\Salary.pdb

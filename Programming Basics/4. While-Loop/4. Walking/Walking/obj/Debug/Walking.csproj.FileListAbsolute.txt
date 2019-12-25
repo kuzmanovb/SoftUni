@@ -1,6 +1,0 @@
-C:\Users\Bibi\source\repos\Walking\Walking\bin\Debug\Walking.exe.config
-C:\Users\Bibi\source\repos\Walking\Walking\bin\Debug\Walking.exe
-C:\Users\Bibi\source\repos\Walking\Walking\bin\Debug\Walking.pdb
-C:\Users\Bibi\source\repos\Walking\Walking\obj\Debug\Walking.csproj.CoreCompileInputs.cache
-C:\Users\Bibi\source\repos\Walking\Walking\obj\Debug\Walking.exe
-C:\Users\Bibi\source\repos\Walking\Walking\obj\Debug\Walking.pdb
