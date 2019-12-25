@@ -1,0 +1,7 @@
+C:\Users\Bibi\source\repos\Tailoring Workshop\Tailoring Workshop\obj\Debug\Tailoring Workshop.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\Tailoring Workshop\Tailoring Workshop\obj\Debug\Tailoring Workshop.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\Tailoring Workshop\Tailoring Workshop\bin\Debug\Tailoring Workshop.exe.config
+C:\Users\Bibi\source\repos\Tailoring Workshop\Tailoring Workshop\bin\Debug\Tailoring Workshop.exe
+C:\Users\Bibi\source\repos\Tailoring Workshop\Tailoring Workshop\bin\Debug\Tailoring Workshop.pdb
+C:\Users\Bibi\source\repos\Tailoring Workshop\Tailoring Workshop\obj\Debug\Tailoring Workshop.exe
+C:\Users\Bibi\source\repos\Tailoring Workshop\Tailoring Workshop\obj\Debug\Tailoring Workshop.pdb

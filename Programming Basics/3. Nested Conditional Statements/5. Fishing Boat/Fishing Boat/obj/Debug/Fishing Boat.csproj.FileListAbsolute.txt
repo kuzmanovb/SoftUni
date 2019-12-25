@@ -1,0 +1,7 @@
+C:\Users\Bibi\source\repos\Fishing Boat\Fishing Boat\obj\Debug\Fishing Boat.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\Fishing Boat\Fishing Boat\obj\Debug\Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\Fishing Boat\Fishing Boat\bin\Debug\Fishing Boat.exe.config
+C:\Users\Bibi\source\repos\Fishing Boat\Fishing Boat\bin\Debug\Fishing Boat.exe
+C:\Users\Bibi\source\repos\Fishing Boat\Fishing Boat\bin\Debug\Fishing Boat.pdb
+C:\Users\Bibi\source\repos\Fishing Boat\Fishing Boat\obj\Debug\Fishing Boat.exe
+C:\Users\Bibi\source\repos\Fishing Boat\Fishing Boat\obj\Debug\Fishing Boat.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bibi\source\repos\2D Rectangle Area\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe.config
+C:\Users\Bibi\source\repos\2D Rectangle Area\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe
+C:\Users\Bibi\source\repos\2D Rectangle Area\2D Rectangle Area\bin\Debug\2D Rectangle Area.pdb
+C:\Users\Bibi\source\repos\2D Rectangle Area\2D Rectangle Area\obj\Debug\2D Rectangle Area.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\2D Rectangle Area\2D Rectangle Area\obj\Debug\2D Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\2D Rectangle Area\2D Rectangle Area\obj\Debug\2D Rectangle Area.exe
+C:\Users\Bibi\source\repos\2D Rectangle Area\2D Rectangle Area\obj\Debug\2D Rectangle Area.pdb

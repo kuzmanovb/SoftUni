@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dance Hall", "Dance Hall\Dance Hall.csproj", "{77E1B800-DB21-4E38-BB32-183FDFBADC7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E1B800-DB21-4E38-BB32-183FDFBADC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E1B800-DB21-4E38-BB32-183FDFBADC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E1B800-DB21-4E38-BB32-183FDFBADC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E1B800-DB21-4E38-BB32-183FDFBADC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21FDC2EC-9088-4E08-ACC4-9496C10D06AF}
+	EndGlobalSection
+EndGlobal
