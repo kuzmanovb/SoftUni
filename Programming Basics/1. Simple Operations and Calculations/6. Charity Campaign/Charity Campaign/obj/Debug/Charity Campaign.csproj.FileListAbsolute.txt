@@ -1,7 +1,0 @@
-C:\Users\Bibi\source\repos\Charity Campaign\Charity Campaign\obj\Debug\Charity Campaign.csprojAssemblyReference.cache
-C:\Users\Bibi\source\repos\Charity Campaign\Charity Campaign\obj\Debug\Charity Campaign.csproj.CoreCompileInputs.cache
-C:\Users\Bibi\source\repos\Charity Campaign\Charity Campaign\bin\Debug\Charity Campaign.exe.config
-C:\Users\Bibi\source\repos\Charity Campaign\Charity Campaign\bin\Debug\Charity Campaign.exe
-C:\Users\Bibi\source\repos\Charity Campaign\Charity Campaign\bin\Debug\Charity Campaign.pdb
-C:\Users\Bibi\source\repos\Charity Campaign\Charity Campaign\obj\Debug\Charity Campaign.exe
-C:\Users\Bibi\source\repos\Charity Campaign\Charity Campaign\obj\Debug\Charity Campaign.pdb
