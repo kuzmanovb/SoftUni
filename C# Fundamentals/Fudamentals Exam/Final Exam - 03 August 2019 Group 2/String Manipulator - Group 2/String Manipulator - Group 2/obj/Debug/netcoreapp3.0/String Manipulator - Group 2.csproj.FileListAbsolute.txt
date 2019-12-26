@@ -1,0 +1,10 @@
+C:\Users\Bibi\source\repos\String Manipulator - Group 2\String Manipulator - Group 2\bin\Debug\netcoreapp3.0\String Manipulator - Group 2.exe
+C:\Users\Bibi\source\repos\String Manipulator - Group 2\String Manipulator - Group 2\bin\Debug\netcoreapp3.0\String Manipulator - Group 2.deps.json
+C:\Users\Bibi\source\repos\String Manipulator - Group 2\String Manipulator - Group 2\bin\Debug\netcoreapp3.0\String Manipulator - Group 2.runtimeconfig.json
+C:\Users\Bibi\source\repos\String Manipulator - Group 2\String Manipulator - Group 2\bin\Debug\netcoreapp3.0\String Manipulator - Group 2.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\String Manipulator - Group 2\String Manipulator - Group 2\bin\Debug\netcoreapp3.0\String Manipulator - Group 2.dll
+C:\Users\Bibi\source\repos\String Manipulator - Group 2\String Manipulator - Group 2\bin\Debug\netcoreapp3.0\String Manipulator - Group 2.pdb
+C:\Users\Bibi\source\repos\String Manipulator - Group 2\String Manipulator - Group 2\obj\Debug\netcoreapp3.0\String Manipulator - Group 2.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\String Manipulator - Group 2\String Manipulator - Group 2\obj\Debug\netcoreapp3.0\String Manipulator - Group 2.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\String Manipulator - Group 2\String Manipulator - Group 2\obj\Debug\netcoreapp3.0\String Manipulator - Group 2.dll
+C:\Users\Bibi\source\repos\String Manipulator - Group 2\String Manipulator - Group 2\obj\Debug\netcoreapp3.0\String Manipulator - Group 2.pdb

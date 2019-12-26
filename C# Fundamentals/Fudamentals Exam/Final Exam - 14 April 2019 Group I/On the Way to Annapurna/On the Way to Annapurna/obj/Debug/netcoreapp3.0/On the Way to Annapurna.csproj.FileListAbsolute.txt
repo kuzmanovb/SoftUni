@@ -1,0 +1,11 @@
+C:\Users\Bibi\source\repos\On the Way to Annapurna\On the Way to Annapurna\bin\Debug\netcoreapp3.0\On the Way to Annapurna.exe
+C:\Users\Bibi\source\repos\On the Way to Annapurna\On the Way to Annapurna\bin\Debug\netcoreapp3.0\On the Way to Annapurna.deps.json
+C:\Users\Bibi\source\repos\On the Way to Annapurna\On the Way to Annapurna\bin\Debug\netcoreapp3.0\On the Way to Annapurna.runtimeconfig.json
+C:\Users\Bibi\source\repos\On the Way to Annapurna\On the Way to Annapurna\bin\Debug\netcoreapp3.0\On the Way to Annapurna.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\On the Way to Annapurna\On the Way to Annapurna\bin\Debug\netcoreapp3.0\On the Way to Annapurna.dll
+C:\Users\Bibi\source\repos\On the Way to Annapurna\On the Way to Annapurna\bin\Debug\netcoreapp3.0\On the Way to Annapurna.pdb
+C:\Users\Bibi\source\repos\On the Way to Annapurna\On the Way to Annapurna\obj\Debug\netcoreapp3.0\On the Way to Annapurna.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\On the Way to Annapurna\On the Way to Annapurna\obj\Debug\netcoreapp3.0\On the Way to Annapurna.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\On the Way to Annapurna\On the Way to Annapurna\obj\Debug\netcoreapp3.0\On the Way to Annapurna.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\On the Way to Annapurna\On the Way to Annapurna\obj\Debug\netcoreapp3.0\On the Way to Annapurna.dll
+C:\Users\Bibi\source\repos\On the Way to Annapurna\On the Way to Annapurna\obj\Debug\netcoreapp3.0\On the Way to Annapurna.pdb

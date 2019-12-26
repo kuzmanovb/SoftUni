@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Wizard Poker/1.0.0": {
+        "runtime": {
+          "Wizard Poker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wizard Poker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

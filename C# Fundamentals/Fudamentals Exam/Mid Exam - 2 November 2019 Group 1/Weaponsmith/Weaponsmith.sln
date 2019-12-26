@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weaponsmith", "Weaponsmith\Weaponsmith.csproj", "{53206F36-4ED7-46ED-B765-4F8D3B6A44D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53206F36-4ED7-46ED-B765-4F8D3B6A44D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53206F36-4ED7-46ED-B765-4F8D3B6A44D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53206F36-4ED7-46ED-B765-4F8D3B6A44D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53206F36-4ED7-46ED-B765-4F8D3B6A44D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67BCEC2D-9C47-4F31-B78B-7877A77B3E7D}
+	EndGlobalSection
+EndGlobal
