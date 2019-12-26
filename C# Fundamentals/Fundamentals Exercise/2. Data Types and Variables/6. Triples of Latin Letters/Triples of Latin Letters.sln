@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triples of Latin Letters", "Triples of Latin Letters\Triples of Latin Letters.csproj", "{B0DC38D2-BBCC-4861-985C-9124B1D21046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0DC38D2-BBCC-4861-985C-9124B1D21046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DC38D2-BBCC-4861-985C-9124B1D21046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DC38D2-BBCC-4861-985C-9124B1D21046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DC38D2-BBCC-4861-985C-9124B1D21046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B09CEF6-58B0-4CD5-8117-024C9DA1560F}
+	EndGlobalSection
+EndGlobal

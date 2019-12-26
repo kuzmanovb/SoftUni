@@ -1,0 +1,10 @@
+C:\Users\Bibi\source\repos\Print Part of the ASCII Table\Print Part of the ASCII Table\bin\Debug\netcoreapp2.2\Print Part of the ASCII Table.deps.json
+C:\Users\Bibi\source\repos\Print Part of the ASCII Table\Print Part of the ASCII Table\bin\Debug\netcoreapp2.2\Print Part of the ASCII Table.runtimeconfig.json
+C:\Users\Bibi\source\repos\Print Part of the ASCII Table\Print Part of the ASCII Table\bin\Debug\netcoreapp2.2\Print Part of the ASCII Table.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\Print Part of the ASCII Table\Print Part of the ASCII Table\bin\Debug\netcoreapp2.2\Print Part of the ASCII Table.dll
+C:\Users\Bibi\source\repos\Print Part of the ASCII Table\Print Part of the ASCII Table\bin\Debug\netcoreapp2.2\Print Part of the ASCII Table.pdb
+C:\Users\Bibi\source\repos\Print Part of the ASCII Table\Print Part of the ASCII Table\obj\Debug\netcoreapp2.2\Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\Print Part of the ASCII Table\Print Part of the ASCII Table\obj\Debug\netcoreapp2.2\Print Part of the ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\Print Part of the ASCII Table\Print Part of the ASCII Table\obj\Debug\netcoreapp2.2\Print Part of the ASCII Table.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\Print Part of the ASCII Table\Print Part of the ASCII Table\obj\Debug\netcoreapp2.2\Print Part of the ASCII Table.dll
+C:\Users\Bibi\source\repos\Print Part of the ASCII Table\Print Part of the ASCII Table\obj\Debug\netcoreapp2.2\Print Part of the ASCII Table.pdb

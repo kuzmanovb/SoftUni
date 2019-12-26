@@ -1,0 +1,11 @@
+C:\Users\Bibi\source\repos\Pokemon Don't Go\Pokemon Don't Go\bin\Debug\netcoreapp3.0\Pokemon Don't Go.exe
+C:\Users\Bibi\source\repos\Pokemon Don't Go\Pokemon Don't Go\bin\Debug\netcoreapp3.0\Pokemon Don't Go.deps.json
+C:\Users\Bibi\source\repos\Pokemon Don't Go\Pokemon Don't Go\bin\Debug\netcoreapp3.0\Pokemon Don't Go.runtimeconfig.json
+C:\Users\Bibi\source\repos\Pokemon Don't Go\Pokemon Don't Go\bin\Debug\netcoreapp3.0\Pokemon Don't Go.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\Pokemon Don't Go\Pokemon Don't Go\bin\Debug\netcoreapp3.0\Pokemon Don't Go.dll
+C:\Users\Bibi\source\repos\Pokemon Don't Go\Pokemon Don't Go\bin\Debug\netcoreapp3.0\Pokemon Don't Go.pdb
+C:\Users\Bibi\source\repos\Pokemon Don't Go\Pokemon Don't Go\obj\Debug\netcoreapp3.0\Pokemon Don't Go.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\Pokemon Don't Go\Pokemon Don't Go\obj\Debug\netcoreapp3.0\Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\Pokemon Don't Go\Pokemon Don't Go\obj\Debug\netcoreapp3.0\Pokemon Don't Go.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\Pokemon Don't Go\Pokemon Don't Go\obj\Debug\netcoreapp3.0\Pokemon Don't Go.dll
+C:\Users\Bibi\source\repos\Pokemon Don't Go\Pokemon Don't Go\obj\Debug\netcoreapp3.0\Pokemon Don't Go.pdb

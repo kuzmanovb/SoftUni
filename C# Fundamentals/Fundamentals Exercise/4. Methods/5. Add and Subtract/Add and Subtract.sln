@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add and Subtract", "Add and Subtract\Add and Subtract.csproj", "{3E5722FA-2ED2-4C36-9406-14C36B7E1CB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E5722FA-2ED2-4C36-9406-14C36B7E1CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5722FA-2ED2-4C36-9406-14C36B7E1CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5722FA-2ED2-4C36-9406-14C36B7E1CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5722FA-2ED2-4C36-9406-14C36B7E1CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F03C79-20A5-4F88-B384-681A3D9B7503}
+	EndGlobalSection
+EndGlobal

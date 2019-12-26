@@ -1,0 +1,11 @@
+C:\Users\Bibi\source\repos\Divison\Divison\bin\Debug\netcoreapp2.2\Divison.deps.json
+C:\Users\Bibi\source\repos\Divison\Divison\bin\Debug\netcoreapp2.2\Divison.runtimeconfig.json
+C:\Users\Bibi\source\repos\Divison\Divison\bin\Debug\netcoreapp2.2\Divison.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\Divison\Divison\bin\Debug\netcoreapp2.2\Divison.dll
+C:\Users\Bibi\source\repos\Divison\Divison\bin\Debug\netcoreapp2.2\Divison.pdb
+C:\Users\Bibi\source\repos\Divison\Divison\obj\Debug\netcoreapp2.2\Divison.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\Divison\Divison\obj\Debug\netcoreapp2.2\Divison.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\Divison\Divison\obj\Debug\netcoreapp2.2\Divison.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\Divison\Divison\obj\Debug\netcoreapp2.2\Divison.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\Divison\Divison\obj\Debug\netcoreapp2.2\Divison.dll
+C:\Users\Bibi\source\repos\Divison\Divison\obj\Debug\netcoreapp2.2\Divison.pdb

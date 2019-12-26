@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kamino Factory2", "Kamino Factory2\Kamino Factory2.csproj", "{5394BE16-86D0-4D9E-8A82-8FDB98F8454F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5394BE16-86D0-4D9E-8A82-8FDB98F8454F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5394BE16-86D0-4D9E-8A82-8FDB98F8454F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5394BE16-86D0-4D9E-8A82-8FDB98F8454F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5394BE16-86D0-4D9E-8A82-8FDB98F8454F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3976A3EE-8A16-42FA-912F-23EAB1E4410A}
+	EndGlobalSection
+EndGlobal

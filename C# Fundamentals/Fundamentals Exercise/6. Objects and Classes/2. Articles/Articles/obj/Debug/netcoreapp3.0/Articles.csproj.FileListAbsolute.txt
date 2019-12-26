@@ -1,0 +1,11 @@
+C:\Users\Bibi\source\repos\Articles\Articles\bin\Debug\netcoreapp3.0\Articles.exe
+C:\Users\Bibi\source\repos\Articles\Articles\bin\Debug\netcoreapp3.0\Articles.deps.json
+C:\Users\Bibi\source\repos\Articles\Articles\bin\Debug\netcoreapp3.0\Articles.runtimeconfig.json
+C:\Users\Bibi\source\repos\Articles\Articles\bin\Debug\netcoreapp3.0\Articles.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\Articles\Articles\bin\Debug\netcoreapp3.0\Articles.dll
+C:\Users\Bibi\source\repos\Articles\Articles\bin\Debug\netcoreapp3.0\Articles.pdb
+C:\Users\Bibi\source\repos\Articles\Articles\obj\Debug\netcoreapp3.0\Articles.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\Articles\Articles\obj\Debug\netcoreapp3.0\Articles.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\Articles\Articles\obj\Debug\netcoreapp3.0\Articles.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\Articles\Articles\obj\Debug\netcoreapp3.0\Articles.dll
+C:\Users\Bibi\source\repos\Articles\Articles\obj\Debug\netcoreapp3.0\Articles.pdb

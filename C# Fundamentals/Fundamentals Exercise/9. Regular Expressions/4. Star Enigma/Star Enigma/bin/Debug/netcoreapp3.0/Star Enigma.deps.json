@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Star Enigma/1.0.0": {
+        "runtime": {
+          "Star Enigma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Star Enigma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

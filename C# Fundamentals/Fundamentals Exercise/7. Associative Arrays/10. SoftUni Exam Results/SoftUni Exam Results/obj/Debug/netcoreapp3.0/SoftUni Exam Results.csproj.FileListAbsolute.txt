@@ -1,0 +1,11 @@
+C:\Users\Bibi\source\repos\SoftUni Exam Results\SoftUni Exam Results\bin\Debug\netcoreapp3.0\SoftUni Exam Results.exe
+C:\Users\Bibi\source\repos\SoftUni Exam Results\SoftUni Exam Results\bin\Debug\netcoreapp3.0\SoftUni Exam Results.deps.json
+C:\Users\Bibi\source\repos\SoftUni Exam Results\SoftUni Exam Results\bin\Debug\netcoreapp3.0\SoftUni Exam Results.runtimeconfig.json
+C:\Users\Bibi\source\repos\SoftUni Exam Results\SoftUni Exam Results\bin\Debug\netcoreapp3.0\SoftUni Exam Results.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\SoftUni Exam Results\SoftUni Exam Results\bin\Debug\netcoreapp3.0\SoftUni Exam Results.dll
+C:\Users\Bibi\source\repos\SoftUni Exam Results\SoftUni Exam Results\bin\Debug\netcoreapp3.0\SoftUni Exam Results.pdb
+C:\Users\Bibi\source\repos\SoftUni Exam Results\SoftUni Exam Results\obj\Debug\netcoreapp3.0\SoftUni Exam Results.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\SoftUni Exam Results\SoftUni Exam Results\obj\Debug\netcoreapp3.0\SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\SoftUni Exam Results\SoftUni Exam Results\obj\Debug\netcoreapp3.0\SoftUni Exam Results.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\SoftUni Exam Results\SoftUni Exam Results\obj\Debug\netcoreapp3.0\SoftUni Exam Results.dll
+C:\Users\Bibi\source\repos\SoftUni Exam Results\SoftUni Exam Results\obj\Debug\netcoreapp3.0\SoftUni Exam Results.pdb

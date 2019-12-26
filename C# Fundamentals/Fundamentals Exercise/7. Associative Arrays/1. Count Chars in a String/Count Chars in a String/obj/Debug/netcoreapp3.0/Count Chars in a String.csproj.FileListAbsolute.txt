@@ -1,0 +1,11 @@
+C:\Users\Bibi\source\repos\Count Chars in a String\Count Chars in a String\bin\Debug\netcoreapp3.0\Count Chars in a String.exe
+C:\Users\Bibi\source\repos\Count Chars in a String\Count Chars in a String\obj\Debug\netcoreapp3.0\Count Chars in a String.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\Count Chars in a String\Count Chars in a String\obj\Debug\netcoreapp3.0\Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\Count Chars in a String\Count Chars in a String\obj\Debug\netcoreapp3.0\Count Chars in a String.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\Count Chars in a String\Count Chars in a String\bin\Debug\netcoreapp3.0\Count Chars in a String.deps.json
+C:\Users\Bibi\source\repos\Count Chars in a String\Count Chars in a String\bin\Debug\netcoreapp3.0\Count Chars in a String.runtimeconfig.json
+C:\Users\Bibi\source\repos\Count Chars in a String\Count Chars in a String\bin\Debug\netcoreapp3.0\Count Chars in a String.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\Count Chars in a String\Count Chars in a String\bin\Debug\netcoreapp3.0\Count Chars in a String.dll
+C:\Users\Bibi\source\repos\Count Chars in a String\Count Chars in a String\bin\Debug\netcoreapp3.0\Count Chars in a String.pdb
+C:\Users\Bibi\source\repos\Count Chars in a String\Count Chars in a String\obj\Debug\netcoreapp3.0\Count Chars in a String.dll
+C:\Users\Bibi\source\repos\Count Chars in a String\Count Chars in a String\obj\Debug\netcoreapp3.0\Count Chars in a String.pdb

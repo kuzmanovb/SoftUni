@@ -1,0 +1,11 @@
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fundamentals Exercise\Data Types and Variables\Beer Kegs\Beer Kegs\bin\Debug\netcoreapp2.2\Beer Kegs.deps.json
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fundamentals Exercise\Data Types and Variables\Beer Kegs\Beer Kegs\bin\Debug\netcoreapp2.2\Beer Kegs.runtimeconfig.json
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fundamentals Exercise\Data Types and Variables\Beer Kegs\Beer Kegs\bin\Debug\netcoreapp2.2\Beer Kegs.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fundamentals Exercise\Data Types and Variables\Beer Kegs\Beer Kegs\bin\Debug\netcoreapp2.2\Beer Kegs.dll
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fundamentals Exercise\Data Types and Variables\Beer Kegs\Beer Kegs\bin\Debug\netcoreapp2.2\Beer Kegs.pdb
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fundamentals Exercise\Data Types and Variables\Beer Kegs\Beer Kegs\obj\Debug\netcoreapp2.2\Beer Kegs.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fundamentals Exercise\Data Types and Variables\Beer Kegs\Beer Kegs\obj\Debug\netcoreapp2.2\Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fundamentals Exercise\Data Types and Variables\Beer Kegs\Beer Kegs\obj\Debug\netcoreapp2.2\Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fundamentals Exercise\Data Types and Variables\Beer Kegs\Beer Kegs\obj\Debug\netcoreapp2.2\Beer Kegs.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fundamentals Exercise\Data Types and Variables\Beer Kegs\Beer Kegs\obj\Debug\netcoreapp2.2\Beer Kegs.dll
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fundamentals Exercise\Data Types and Variables\Beer Kegs\Beer Kegs\obj\Debug\netcoreapp2.2\Beer Kegs.pdb

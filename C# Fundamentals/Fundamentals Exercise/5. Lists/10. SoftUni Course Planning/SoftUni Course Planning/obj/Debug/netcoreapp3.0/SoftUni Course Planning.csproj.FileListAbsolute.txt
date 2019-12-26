@@ -1,0 +1,11 @@
+C:\Users\Bibi\source\repos\SoftUni Course Planning\SoftUni Course Planning\bin\Debug\netcoreapp3.0\SoftUni Course Planning.exe
+C:\Users\Bibi\source\repos\SoftUni Course Planning\SoftUni Course Planning\bin\Debug\netcoreapp3.0\SoftUni Course Planning.deps.json
+C:\Users\Bibi\source\repos\SoftUni Course Planning\SoftUni Course Planning\bin\Debug\netcoreapp3.0\SoftUni Course Planning.runtimeconfig.json
+C:\Users\Bibi\source\repos\SoftUni Course Planning\SoftUni Course Planning\bin\Debug\netcoreapp3.0\SoftUni Course Planning.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\SoftUni Course Planning\SoftUni Course Planning\bin\Debug\netcoreapp3.0\SoftUni Course Planning.dll
+C:\Users\Bibi\source\repos\SoftUni Course Planning\SoftUni Course Planning\bin\Debug\netcoreapp3.0\SoftUni Course Planning.pdb
+C:\Users\Bibi\source\repos\SoftUni Course Planning\SoftUni Course Planning\obj\Debug\netcoreapp3.0\SoftUni Course Planning.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\SoftUni Course Planning\SoftUni Course Planning\obj\Debug\netcoreapp3.0\SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\SoftUni Course Planning\SoftUni Course Planning\obj\Debug\netcoreapp3.0\SoftUni Course Planning.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\SoftUni Course Planning\SoftUni Course Planning\obj\Debug\netcoreapp3.0\SoftUni Course Planning.dll
+C:\Users\Bibi\source\repos\SoftUni Course Planning\SoftUni Course Planning\obj\Debug\netcoreapp3.0\SoftUni Course Planning.pdb

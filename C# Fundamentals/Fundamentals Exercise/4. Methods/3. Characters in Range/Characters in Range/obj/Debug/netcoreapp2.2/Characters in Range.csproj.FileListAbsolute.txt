@@ -1,0 +1,11 @@
+C:\Users\Bibi\source\repos\Characters in Range\Characters in Range\bin\Debug\netcoreapp2.2\Characters in Range.deps.json
+C:\Users\Bibi\source\repos\Characters in Range\Characters in Range\bin\Debug\netcoreapp2.2\Characters in Range.runtimeconfig.json
+C:\Users\Bibi\source\repos\Characters in Range\Characters in Range\bin\Debug\netcoreapp2.2\Characters in Range.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\Characters in Range\Characters in Range\bin\Debug\netcoreapp2.2\Characters in Range.dll
+C:\Users\Bibi\source\repos\Characters in Range\Characters in Range\bin\Debug\netcoreapp2.2\Characters in Range.pdb
+C:\Users\Bibi\source\repos\Characters in Range\Characters in Range\obj\Debug\netcoreapp2.2\Characters in Range.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\Characters in Range\Characters in Range\obj\Debug\netcoreapp2.2\Characters in Range.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\Characters in Range\Characters in Range\obj\Debug\netcoreapp2.2\Characters in Range.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\Characters in Range\Characters in Range\obj\Debug\netcoreapp2.2\Characters in Range.dll
+C:\Users\Bibi\source\repos\Characters in Range\Characters in Range\obj\Debug\netcoreapp2.2\Characters in Range.pdb
+C:\Users\Bibi\source\repos\Characters in Range\Characters in Range\obj\Debug\netcoreapp2.2\Characters in Range.csprojAssemblyReference.cache
