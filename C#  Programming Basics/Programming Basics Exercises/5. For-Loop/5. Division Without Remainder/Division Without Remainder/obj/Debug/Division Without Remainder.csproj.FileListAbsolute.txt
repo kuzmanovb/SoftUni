@@ -1,0 +1,6 @@
+C:\Users\Bibi\source\repos\Division Without Remainder\Division Without Remainder\obj\Debug\Division Without Remainder.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\Division Without Remainder\Division Without Remainder\bin\Debug\Division Without Remainder.exe.config
+C:\Users\Bibi\source\repos\Division Without Remainder\Division Without Remainder\bin\Debug\Division Without Remainder.exe
+C:\Users\Bibi\source\repos\Division Without Remainder\Division Without Remainder\bin\Debug\Division Without Remainder.pdb
+C:\Users\Bibi\source\repos\Division Without Remainder\Division Without Remainder\obj\Debug\Division Without Remainder.exe
+C:\Users\Bibi\source\repos\Division Without Remainder\Division Without Remainder\obj\Debug\Division Without Remainder.pdb

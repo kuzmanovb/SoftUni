@@ -1,0 +1,6 @@
+C:\Users\Bibi\source\repos\Number Pyramid\Number Pyramid\bin\Debug\Number Pyramid.exe.config
+C:\Users\Bibi\source\repos\Number Pyramid\Number Pyramid\bin\Debug\Number Pyramid.exe
+C:\Users\Bibi\source\repos\Number Pyramid\Number Pyramid\bin\Debug\Number Pyramid.pdb
+C:\Users\Bibi\source\repos\Number Pyramid\Number Pyramid\obj\Debug\Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\Number Pyramid\Number Pyramid\obj\Debug\Number Pyramid.exe
+C:\Users\Bibi\source\repos\Number Pyramid\Number Pyramid\obj\Debug\Number Pyramid.pdb

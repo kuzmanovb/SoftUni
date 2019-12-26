@@ -1,0 +1,7 @@
+C:\Users\Bibi\source\repos\Godzilla vs. Kong\Godzilla vs. Kong\obj\Debug\Godzilla vs. Kong.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\Godzilla vs. Kong\Godzilla vs. Kong\obj\Debug\Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\Godzilla vs. Kong\Godzilla vs. Kong\bin\Debug\Godzilla_vs.Kong.exe.config
+C:\Users\Bibi\source\repos\Godzilla vs. Kong\Godzilla vs. Kong\bin\Debug\Godzilla_vs.Kong.exe
+C:\Users\Bibi\source\repos\Godzilla vs. Kong\Godzilla vs. Kong\bin\Debug\Godzilla_vs.Kong.pdb
+C:\Users\Bibi\source\repos\Godzilla vs. Kong\Godzilla vs. Kong\obj\Debug\Godzilla_vs.Kong.exe
+C:\Users\Bibi\source\repos\Godzilla vs. Kong\Godzilla vs. Kong\obj\Debug\Godzilla_vs.Kong.pdb

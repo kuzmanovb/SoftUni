@@ -1,0 +1,7 @@
+C:\Users\Bibi\source\repos\New House\New House\bin\Debug\New House.exe.config
+C:\Users\Bibi\source\repos\New House\New House\bin\Debug\New House.exe
+C:\Users\Bibi\source\repos\New House\New House\bin\Debug\New House.pdb
+C:\Users\Bibi\source\repos\New House\New House\obj\Debug\New House.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\New House\New House\obj\Debug\New House.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\New House\New House\obj\Debug\New House.exe
+C:\Users\Bibi\source\repos\New House\New House\obj\Debug\New House.pdb

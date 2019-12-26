@@ -1,0 +1,7 @@
+C:\Users\Bibi\source\repos\World Swimming Record\World Swimming Record\obj\Debug\World Swimming Record.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\World Swimming Record\World Swimming Record\obj\Debug\World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\World Swimming Record\World Swimming Record\bin\Debug\World Swimming Record.exe.config
+C:\Users\Bibi\source\repos\World Swimming Record\World Swimming Record\bin\Debug\World Swimming Record.exe
+C:\Users\Bibi\source\repos\World Swimming Record\World Swimming Record\bin\Debug\World Swimming Record.pdb
+C:\Users\Bibi\source\repos\World Swimming Record\World Swimming Record\obj\Debug\World Swimming Record.exe
+C:\Users\Bibi\source\repos\World Swimming Record\World Swimming Record\obj\Debug\World Swimming Record.pdb

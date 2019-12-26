@@ -1,0 +1,6 @@
+C:\Users\Bibi\source\repos\USD to BGN\USD to BGN\bin\Debug\USD to BGN.exe.config
+C:\Users\Bibi\source\repos\USD to BGN\USD to BGN\bin\Debug\USD to BGN.exe
+C:\Users\Bibi\source\repos\USD to BGN\USD to BGN\bin\Debug\USD to BGN.pdb
+C:\Users\Bibi\source\repos\USD to BGN\USD to BGN\obj\Debug\USD to BGN.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\USD to BGN\USD to BGN\obj\Debug\USD to BGN.exe
+C:\Users\Bibi\source\repos\USD to BGN\USD to BGN\obj\Debug\USD to BGN.pdb
