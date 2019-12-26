@@ -1,0 +1,10 @@
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Last Stop\Last Stop\bin\Debug\netcoreapp2.2\Last Stop.deps.json
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Last Stop\Last Stop\bin\Debug\netcoreapp2.2\Last Stop.runtimeconfig.json
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Last Stop\Last Stop\bin\Debug\netcoreapp2.2\Last Stop.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Last Stop\Last Stop\bin\Debug\netcoreapp2.2\Last Stop.dll
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Last Stop\Last Stop\bin\Debug\netcoreapp2.2\Last Stop.pdb
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Last Stop\Last Stop\obj\Debug\netcoreapp2.2\Last Stop.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Last Stop\Last Stop\obj\Debug\netcoreapp2.2\Last Stop.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Last Stop\Last Stop\obj\Debug\netcoreapp2.2\Last Stop.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Last Stop\Last Stop\obj\Debug\netcoreapp2.2\Last Stop.dll
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Last Stop\Last Stop\obj\Debug\netcoreapp2.2\Last Stop.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bibi\source\repos\Vapor Winter Sale\Vapor Winter Sale\bin\Debug\netcoreapp3.0\Vapor Winter Sale.exe
+C:\Users\Bibi\source\repos\Vapor Winter Sale\Vapor Winter Sale\bin\Debug\netcoreapp3.0\Vapor Winter Sale.deps.json
+C:\Users\Bibi\source\repos\Vapor Winter Sale\Vapor Winter Sale\bin\Debug\netcoreapp3.0\Vapor Winter Sale.runtimeconfig.json
+C:\Users\Bibi\source\repos\Vapor Winter Sale\Vapor Winter Sale\bin\Debug\netcoreapp3.0\Vapor Winter Sale.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\Vapor Winter Sale\Vapor Winter Sale\bin\Debug\netcoreapp3.0\Vapor Winter Sale.dll
+C:\Users\Bibi\source\repos\Vapor Winter Sale\Vapor Winter Sale\bin\Debug\netcoreapp3.0\Vapor Winter Sale.pdb
+C:\Users\Bibi\source\repos\Vapor Winter Sale\Vapor Winter Sale\obj\Debug\netcoreapp3.0\Vapor Winter Sale.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\Vapor Winter Sale\Vapor Winter Sale\obj\Debug\netcoreapp3.0\Vapor Winter Sale.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\Vapor Winter Sale\Vapor Winter Sale\obj\Debug\netcoreapp3.0\Vapor Winter Sale.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\Vapor Winter Sale\Vapor Winter Sale\obj\Debug\netcoreapp3.0\Vapor Winter Sale.dll
+C:\Users\Bibi\source\repos\Vapor Winter Sale\Vapor Winter Sale\obj\Debug\netcoreapp3.0\Vapor Winter Sale.pdb

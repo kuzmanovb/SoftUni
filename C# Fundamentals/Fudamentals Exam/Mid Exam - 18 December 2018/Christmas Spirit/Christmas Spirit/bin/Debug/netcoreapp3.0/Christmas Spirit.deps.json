@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Christmas Spirit/1.0.0": {
+        "runtime": {
+          "Christmas Spirit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Christmas Spirit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

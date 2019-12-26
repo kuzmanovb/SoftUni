@@ -1,0 +1,11 @@
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\Spring Vacation Trip\bin\Debug\netcoreapp2.2\Spring Vacation Trip.deps.json
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\Spring Vacation Trip\bin\Debug\netcoreapp2.2\Spring Vacation Trip.runtimeconfig.json
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\Spring Vacation Trip\bin\Debug\netcoreapp2.2\Spring Vacation Trip.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\Spring Vacation Trip\bin\Debug\netcoreapp2.2\Spring Vacation Trip.dll
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\Spring Vacation Trip\bin\Debug\netcoreapp2.2\Spring Vacation Trip.pdb
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\Spring Vacation Trip\obj\Debug\netcoreapp2.2\Spring Vacation Trip.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\Spring Vacation Trip\obj\Debug\netcoreapp2.2\Spring Vacation Trip.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\Spring Vacation Trip\obj\Debug\netcoreapp2.2\Spring Vacation Trip.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\Spring Vacation Trip\obj\Debug\netcoreapp2.2\Spring Vacation Trip.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\Spring Vacation Trip\obj\Debug\netcoreapp2.2\Spring Vacation Trip.dll
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\Spring Vacation Trip\obj\Debug\netcoreapp2.2\Spring Vacation Trip.pdb

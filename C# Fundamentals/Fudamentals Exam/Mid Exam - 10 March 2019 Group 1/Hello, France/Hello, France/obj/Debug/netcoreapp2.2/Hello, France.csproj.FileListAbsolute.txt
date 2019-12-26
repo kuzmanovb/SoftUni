@@ -1,0 +1,10 @@
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Hello, France\Hello, France\bin\Debug\netcoreapp2.2\Hello, France.deps.json
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Hello, France\Hello, France\bin\Debug\netcoreapp2.2\Hello, France.runtimeconfig.json
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Hello, France\Hello, France\bin\Debug\netcoreapp2.2\Hello, France.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Hello, France\Hello, France\bin\Debug\netcoreapp2.2\Hello, France.dll
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Hello, France\Hello, France\bin\Debug\netcoreapp2.2\Hello, France.pdb
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Hello, France\Hello, France\obj\Debug\netcoreapp2.2\Hello, France.csproj.CoreCompileInputs.cache
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Hello, France\Hello, France\obj\Debug\netcoreapp2.2\Hello, France.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Hello, France\Hello, France\obj\Debug\netcoreapp2.2\Hello, France.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Hello, France\Hello, France\obj\Debug\netcoreapp2.2\Hello, France.dll
+C:\Users\Bibi\source\repos\2. C# Fundamentals\Fudamentals Exam\Mid Exam - 10 March 2019 Group 1\Hello, France\Hello, France\obj\Debug\netcoreapp2.2\Hello, France.pdb
