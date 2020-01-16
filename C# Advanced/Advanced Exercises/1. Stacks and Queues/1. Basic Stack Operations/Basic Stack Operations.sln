@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Stack Operations", "Basic Stack Operations\Basic Stack Operations.csproj", "{B2121AEE-59CD-4EBC-AAFE-DD6773C6D35A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2121AEE-59CD-4EBC-AAFE-DD6773C6D35A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2121AEE-59CD-4EBC-AAFE-DD6773C6D35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2121AEE-59CD-4EBC-AAFE-DD6773C6D35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2121AEE-59CD-4EBC-AAFE-DD6773C6D35A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A4D913-72F9-44D2-A5F5-9597CE2E7D2E}
+	EndGlobalSection
+EndGlobal

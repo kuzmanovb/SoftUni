@@ -1,0 +1,11 @@
+C:\Users\Bibi\source\repos\Simple Text Editor\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.exe
+C:\Users\Bibi\source\repos\Simple Text Editor\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.deps.json
+C:\Users\Bibi\source\repos\Simple Text Editor\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.runtimeconfig.json
+C:\Users\Bibi\source\repos\Simple Text Editor\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\Simple Text Editor\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.dll
+C:\Users\Bibi\source\repos\Simple Text Editor\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.pdb
+C:\Users\Bibi\source\repos\Simple Text Editor\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\Simple Text Editor\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\Simple Text Editor\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\Simple Text Editor\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.dll
+C:\Users\Bibi\source\repos\Simple Text Editor\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.pdb
