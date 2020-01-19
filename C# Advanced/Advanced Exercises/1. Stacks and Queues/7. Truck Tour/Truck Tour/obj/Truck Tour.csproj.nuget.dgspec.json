@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bibi\\source\\repos\\Truck Tour\\Truck Tour\\Truck Tour.csproj": {}
+    "C:\\Users\\Bibi\\Documents\\GitHub\\SoftUni\\C# Advanced\\Advanced Exercises\\1. Stacks and Queues\\7. Truck Tour\\Truck Tour\\Truck Tour.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bibi\\source\\repos\\Truck Tour\\Truck Tour\\Truck Tour.csproj": {
+    "C:\\Users\\Bibi\\Documents\\GitHub\\SoftUni\\C# Advanced\\Advanced Exercises\\1. Stacks and Queues\\7. Truck Tour\\Truck Tour\\Truck Tour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bibi\\source\\repos\\Truck Tour\\Truck Tour\\Truck Tour.csproj",
+        "projectUniqueName": "C:\\Users\\Bibi\\Documents\\GitHub\\SoftUni\\C# Advanced\\Advanced Exercises\\1. Stacks and Queues\\7. Truck Tour\\Truck Tour\\Truck Tour.csproj",
         "projectName": "Truck Tour",
-        "projectPath": "C:\\Users\\Bibi\\source\\repos\\Truck Tour\\Truck Tour\\Truck Tour.csproj",
+        "projectPath": "C:\\Users\\Bibi\\Documents\\GitHub\\SoftUni\\C# Advanced\\Advanced Exercises\\1. Stacks and Queues\\7. Truck Tour\\Truck Tour\\Truck Tour.csproj",
         "packagesPath": "C:\\Users\\Bibi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bibi\\source\\repos\\Truck Tour\\Truck Tour\\obj\\",
+        "outputPath": "C:\\Users\\Bibi\\Documents\\GitHub\\SoftUni\\C# Advanced\\Advanced Exercises\\1. Stacks and Queues\\7. Truck Tour\\Truck Tour\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

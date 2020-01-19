@@ -25,11 +25,7 @@ namespace Truck_Tour
             while (curentSum < 0)
             {
                 curentSum = 0;
-                if (numberPomp > 0)
-                {
-                    var pompForMove = petrolPomps.Dequeue();
-                    petrolPomps.Enqueue(pompForMove);
-                }
+              
                 foreach (var pomp in petrolPomps)
                 {
                     curentSum += pomp;
@@ -37,6 +33,7 @@ namespace Truck_Tour
                     {
                         numberPomp++;
                         curentSum = -1;
+                        petrolPomps.Enqueue(petrolPomps.Dequeue());
                         break;
                     }
                 }

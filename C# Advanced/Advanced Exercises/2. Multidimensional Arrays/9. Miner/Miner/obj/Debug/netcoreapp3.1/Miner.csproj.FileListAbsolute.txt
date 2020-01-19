@@ -1,0 +1,11 @@
+C:\Users\Bibi\source\repos\Miner\Miner\bin\Debug\netcoreapp3.1\Miner.exe
+C:\Users\Bibi\source\repos\Miner\Miner\bin\Debug\netcoreapp3.1\Miner.deps.json
+C:\Users\Bibi\source\repos\Miner\Miner\bin\Debug\netcoreapp3.1\Miner.runtimeconfig.json
+C:\Users\Bibi\source\repos\Miner\Miner\bin\Debug\netcoreapp3.1\Miner.runtimeconfig.dev.json
+C:\Users\Bibi\source\repos\Miner\Miner\bin\Debug\netcoreapp3.1\Miner.dll
+C:\Users\Bibi\source\repos\Miner\Miner\bin\Debug\netcoreapp3.1\Miner.pdb
+C:\Users\Bibi\source\repos\Miner\Miner\obj\Debug\netcoreapp3.1\Miner.csprojAssemblyReference.cache
+C:\Users\Bibi\source\repos\Miner\Miner\obj\Debug\netcoreapp3.1\Miner.AssemblyInfoInputs.cache
+C:\Users\Bibi\source\repos\Miner\Miner\obj\Debug\netcoreapp3.1\Miner.AssemblyInfo.cs
+C:\Users\Bibi\source\repos\Miner\Miner\obj\Debug\netcoreapp3.1\Miner.dll
+C:\Users\Bibi\source\repos\Miner\Miner\obj\Debug\netcoreapp3.1\Miner.pdb
