@@ -1,7 +1,0 @@
-C:\Users\Bibi\source\repos\Sum Prime Non Prime\Sum Prime Non Prime\bin\Debug\Sum Prime Non Prime.exe.config
-C:\Users\Bibi\source\repos\Sum Prime Non Prime\Sum Prime Non Prime\bin\Debug\Sum Prime Non Prime.exe
-C:\Users\Bibi\source\repos\Sum Prime Non Prime\Sum Prime Non Prime\bin\Debug\Sum Prime Non Prime.pdb
-C:\Users\Bibi\source\repos\Sum Prime Non Prime\Sum Prime Non Prime\obj\Debug\Sum Prime Non Prime.csprojAssemblyReference.cache
-C:\Users\Bibi\source\repos\Sum Prime Non Prime\Sum Prime Non Prime\obj\Debug\Sum Prime Non Prime.csproj.CoreCompileInputs.cache
-C:\Users\Bibi\source\repos\Sum Prime Non Prime\Sum Prime Non Prime\obj\Debug\Sum Prime Non Prime.exe
-C:\Users\Bibi\source\repos\Sum Prime Non Prime\Sum Prime Non Prime\obj\Debug\Sum Prime Non Prime.pdb

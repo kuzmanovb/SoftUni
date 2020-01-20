@@ -1,7 +1,0 @@
-C:\Users\Bibi\source\repos\Train The Trainers\Train The Trainers\bin\Debug\Train The Trainers.exe.config
-C:\Users\Bibi\source\repos\Train The Trainers\Train The Trainers\bin\Debug\Train The Trainers.exe
-C:\Users\Bibi\source\repos\Train The Trainers\Train The Trainers\bin\Debug\Train The Trainers.pdb
-C:\Users\Bibi\source\repos\Train The Trainers\Train The Trainers\obj\Debug\Train The Trainers.csprojAssemblyReference.cache
-C:\Users\Bibi\source\repos\Train The Trainers\Train The Trainers\obj\Debug\Train The Trainers.csproj.CoreCompileInputs.cache
-C:\Users\Bibi\source\repos\Train The Trainers\Train The Trainers\obj\Debug\Train The Trainers.exe
-C:\Users\Bibi\source\repos\Train The Trainers\Train The Trainers\obj\Debug\Train The Trainers.pdb

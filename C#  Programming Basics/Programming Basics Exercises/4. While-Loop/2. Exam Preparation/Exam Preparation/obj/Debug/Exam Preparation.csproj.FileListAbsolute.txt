@@ -1,7 +1,0 @@
-C:\Users\Bibi\source\repos\Exam Preparation\Exam Preparation\bin\Debug\Exam Preparation.exe.config
-C:\Users\Bibi\source\repos\Exam Preparation\Exam Preparation\bin\Debug\Exam Preparation.exe
-C:\Users\Bibi\source\repos\Exam Preparation\Exam Preparation\bin\Debug\Exam Preparation.pdb
-C:\Users\Bibi\source\repos\Exam Preparation\Exam Preparation\obj\Debug\Exam Preparation.csprojAssemblyReference.cache
-C:\Users\Bibi\source\repos\Exam Preparation\Exam Preparation\obj\Debug\Exam Preparation.csproj.CoreCompileInputs.cache
-C:\Users\Bibi\source\repos\Exam Preparation\Exam Preparation\obj\Debug\Exam Preparation.exe
-C:\Users\Bibi\source\repos\Exam Preparation\Exam Preparation\obj\Debug\Exam Preparation.pdb

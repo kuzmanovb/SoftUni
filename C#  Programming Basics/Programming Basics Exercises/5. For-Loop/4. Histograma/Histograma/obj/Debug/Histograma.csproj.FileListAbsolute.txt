@@ -1,7 +1,0 @@
-C:\Users\Bibi\source\repos\Histograma\Histograma\bin\Debug\Histograma.exe.config
-C:\Users\Bibi\source\repos\Histograma\Histograma\bin\Debug\Histograma.exe
-C:\Users\Bibi\source\repos\Histograma\Histograma\bin\Debug\Histograma.pdb
-C:\Users\Bibi\source\repos\Histograma\Histograma\obj\Debug\Histograma.csprojAssemblyReference.cache
-C:\Users\Bibi\source\repos\Histograma\Histograma\obj\Debug\Histograma.csproj.CoreCompileInputs.cache
-C:\Users\Bibi\source\repos\Histograma\Histograma\obj\Debug\Histograma.exe
-C:\Users\Bibi\source\repos\Histograma\Histograma\obj\Debug\Histograma.pdb

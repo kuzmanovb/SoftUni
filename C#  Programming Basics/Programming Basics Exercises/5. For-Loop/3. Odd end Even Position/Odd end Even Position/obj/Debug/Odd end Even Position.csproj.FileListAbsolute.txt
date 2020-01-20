@@ -1,7 +1,0 @@
-C:\Users\Bibi\source\repos\Odd end Even Position\Odd end Even Position\bin\Debug\Odd end Even Position.exe.config
-C:\Users\Bibi\source\repos\Odd end Even Position\Odd end Even Position\bin\Debug\Odd end Even Position.exe
-C:\Users\Bibi\source\repos\Odd end Even Position\Odd end Even Position\bin\Debug\Odd end Even Position.pdb
-C:\Users\Bibi\source\repos\Odd end Even Position\Odd end Even Position\obj\Debug\Odd end Even Position.csprojAssemblyReference.cache
-C:\Users\Bibi\source\repos\Odd end Even Position\Odd end Even Position\obj\Debug\Odd end Even Position.csproj.CoreCompileInputs.cache
-C:\Users\Bibi\source\repos\Odd end Even Position\Odd end Even Position\obj\Debug\Odd end Even Position.exe
-C:\Users\Bibi\source\repos\Odd end Even Position\Odd end Even Position\obj\Debug\Odd end Even Position.pdb

@@ -1,6 +1,0 @@
-C:\Users\Bibi\source\repos\Coins\Coins\bin\Debug\Coins.exe.config
-C:\Users\Bibi\source\repos\Coins\Coins\bin\Debug\Coins.exe
-C:\Users\Bibi\source\repos\Coins\Coins\bin\Debug\Coins.pdb
-C:\Users\Bibi\source\repos\Coins\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
-C:\Users\Bibi\source\repos\Coins\Coins\obj\Debug\Coins.exe
-C:\Users\Bibi\source\repos\Coins\Coins\obj\Debug\Coins.pdb

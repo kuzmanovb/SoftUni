@@ -1,7 +1,0 @@
-C:\Users\Bibi\source\repos\Coding\Coding\bin\Debug\Coding.exe.config
-C:\Users\Bibi\source\repos\Coding\Coding\bin\Debug\Coding.exe
-C:\Users\Bibi\source\repos\Coding\Coding\bin\Debug\Coding.pdb
-C:\Users\Bibi\source\repos\Coding\Coding\obj\Debug\Coding.csprojAssemblyReference.cache
-C:\Users\Bibi\source\repos\Coding\Coding\obj\Debug\Coding.csproj.CoreCompileInputs.cache
-C:\Users\Bibi\source\repos\Coding\Coding\obj\Debug\Coding.exe
-C:\Users\Bibi\source\repos\Coding\Coding\obj\Debug\Coding.pdb
