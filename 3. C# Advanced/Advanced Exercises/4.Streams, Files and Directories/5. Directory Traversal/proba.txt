@@ -1,0 +1,10 @@
+.json
+--Problem 5. Directory Traversal.runtimeconfig.json - 0.150kb
+--Problem 5. Directory Traversal.runtimeconfig.dev.json - 0.229kb
+--Problem 5. Directory Traversal.deps.json - 0.471kb
+.dll
+--Problem 5. Directory Traversal.dll - 8.500kb
+.exe
+--Problem 5. Directory Traversal.exe - 166.500kb
+.pdb
+--Problem 5. Directory Traversal.pdb - 1.844kb
