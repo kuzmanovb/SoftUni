@@ -11,7 +11,7 @@
 </table>
 <!-- Head End -->
 
-<hr />
+<hr>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <!-- Programming Fundamentals-->
 <tbody>
