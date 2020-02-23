@@ -13,6 +13,14 @@
 
 <hr>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<!-- Programming Advanced-->
+<tbody>
+<tr>
+<td align="center" width="33%">Programming Advanced - January 2020 <br> 14.01.2020 - 22.02.2019</td>
+<!--td align="center" width="33%"> Date of issue of certificate: 20.12/2019 <br>Grade: 6.00</td>
+<td align="center" width="33%"><p><a title="Programming Fundamentals" href="https://softuni.bg/certificates/details/74482/f8f20d0d" target="_blank">Certificate</a></p></td-->   
+</tr>
+</tbody>
 <!-- Programming Fundamentals-->
 <tbody>
 <tr>
