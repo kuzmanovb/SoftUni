@@ -13,20 +13,28 @@
 
 <hr>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<!-- Programming Advanced-->
+<tbody>
+<tr>
+<td align="center" width="33%">Programming C# Advanced - January 2020 <br> 14.01.2020 - 22.02.2019</td>
+<!--td align="center" width="33%"> Date of issue of certificate: 20.12/2019 <br>Grade: 6.00</td>
+<td align="center" width="33%"><p><a title="Programming C# Fundamentals" href="https://softuni.bg/certificates/details/74482/f8f20d0d" target="_blank">Certificate</a></p></td-->   
+</tr>
+</tbody>
 <!-- Programming Fundamentals-->
 <tbody>
 <tr>
-<td align="center" width="33%">Programming Fundamentals - September 2019 <br> 16.09.2019 - 06.12.2019</td>
+<td align="center" width="33%">Programming C# Fundamentals - September 2019 <br> 16.09.2019 - 06.12.2019</td>
 <td align="center" width="33%"> Date of issue of certificate: 20.12/2019 <br>Grade: 6.00</td>
-<td align="center" width="33%"><p><a title="Programming Fundamentals" href="https://softuni.bg/certificates/details/74482/f8f20d0d" target="_blank">Certificate</a></p></td>   
+<td align="center" width="33%"><p><a title="Programming C# Fundamentals" href="https://softuni.bg/certificates/details/74482/f8f20d0d" target="_blank">Certificate</a></p></td>   
 </tr>
 </tbody>
 <!--Programming Basics-->
 <tbody>
 <tr>
-<td align="center" width="33%">Programming Basics - April 2019 <br> 06.04.2019 - 15.06.2019</td>
+<td align="center" width="33%">Programming C# Basics - April 2019 <br> 06.04.2019 - 15.06.2019</td>
 <td align="center" width="33%">Date of issue of certificate: 18.06/2019 <br>Grade: 6.00</td>
-<td align="center" width="33%"><p><a title="Programming Basics" href="https://softuni.bg/certificates/details/67400/4da4e302" target="_blank">Certificate</a></p></td>
+<td align="center" width="33%"><p><a title="Programming C# Basics" href="https://softuni.bg/certificates/details/67400/4da4e302" target="_blank">Certificate</a></p></td>
         </tr>
         </tbody>
 </table>
