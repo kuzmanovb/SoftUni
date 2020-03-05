@@ -17,8 +17,8 @@
 <tbody>
 <tr>
 <td align="center" width="33%">Programming C# Advanced - January 2020 <br> 14.01.2020 - 22.02.2019</td>
-<!--td align="center" width="33%"> Date of issue of certificate: 20.12/2019 <br>Grade: 6.00</td>
-<td align="center" width="33%"><p><a title="Programming C# Fundamentals" href="https://softuni.bg/certificates/details/74482/f8f20d0d" target="_blank">Certificate</a></p></td-->   
+<td align="center" width="33%"> Date of issue of certificate: 05.03/2020 <br>Grade: 6.00</td>
+<td align="center" width="33%"><p><a title="Programming C# Advanced " href="https://softuni.bg/certificates/details/77412/d47076cb" target="_blank">Certificate</a></p></td>   
 </tr>
 </tbody>
 <!-- Programming Fundamentals-->
