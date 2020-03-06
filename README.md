@@ -16,7 +16,7 @@
    <!-- Programming OOP-->
 <tbody>
 <tr>
-<td align="center" width="33%">Programming C# OOP <br> January 2020 <br> 25.02.2020 - 12.04.2020</td>
+<td align="center" width="33%">Programming C# OOP <br> February 2020 <br> 25.02.2020 - 12.04.2020</td>
 <!---td align="center" width="33%"> Date of issue of certificate: 05.03/2020 <br>Grade: 6.00</td>
 <td align="center" width="33%"><p><a title="Programming C# Advanced " href="https://softuni.bg/certificates/details/77412/d47076cb" target="_blank">Certificate</a></p></td--->   
 </tr>
