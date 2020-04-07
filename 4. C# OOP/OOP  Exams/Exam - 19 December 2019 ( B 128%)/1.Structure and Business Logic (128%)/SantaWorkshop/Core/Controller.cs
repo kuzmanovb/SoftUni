@@ -93,28 +93,16 @@ namespace SantaWorkshop.Core
         {
             var sb = new StringBuilder();
             var presantDone = presents.Models.Where(p => p.IsDone()).Count();
-            //sb.AppendLine($"{presantDone} presents are done!")
-              //.AppendLine("Dwarfs info:");
-           
-            sb.Append($"{presantDone} presents are done!"
-                + Environment.NewLine +
-                "Dwarfs info:"
-                + Environment.NewLine);
+            sb.AppendLine($"{presantDone} presents are done!")
+              .AppendLine("Dwarfs info:");
 
             foreach (var dwarf in dwarfs.Models)
             {
                 var notBrokenInstruments = dwarf.Instruments.Where(i => !i.IsBroken()).Count();
 
-                //sb.AppendLine($"Name: {dwarf.Name}")
-                //  .AppendLine($"Energy: {dwarf.Energy}")
-                //   .AppendLine($"Instruments: {notBrokenInstruments} not broken left");
-                  
-
-                sb.Append($"Name: {dwarf.Name}"
-                    + Environment.NewLine +
-                    $"Energy: {dwarf.Energy}"
-                    + Environment.NewLine +
-                    $"Instruments: {notBrokenInstruments} not broken left");
+                sb.AppendLine($"Name: {dwarf.Name}")
+                  .AppendLine($"Energy: {dwarf.Energy}")
+                   .AppendLine($"Instruments: {notBrokenInstruments} not broken left");
             }
 
 
