@@ -11,14 +11,14 @@ namespace ViceCity.Core
     {
         private IReader reader;
         private IWriter writer;
-        private Controller contriler;
+        private Controller controller;
 
 
         public Engine()
         {
             this.reader = new Reader();
             this.writer = new Writer();
-            this.contriler = new Controller();
+            this.controller = new Controller();
 
         }
         public void Run()
@@ -35,22 +35,25 @@ namespace ViceCity.Core
                     if (input[0] == "AddPlayer")
                     {
                         var name = input[1];
-                        writer.WriteLine(contriler.AddPlayer(name));
+
+                        writer.WriteLine(controller.AddPlayer(name));
                     }
                     else if (input[0] == "AddGun")
                     {
                         var type = input[1];
                         var name = input[2];
-                        writer.WriteLine(contriler.AddGun(type, name));
+
+                        writer.WriteLine(controller.AddGun(type, name));
                     }
                     else if (input[0] == "AddGunToPlayer")
                     {
                         var name = input[1];
-                        writer.WriteLine(contriler.AddGunToPlayer(name));
+
+                        writer.WriteLine(controller.AddGunToPlayer(name));
                     }
                     else if (input[0] == "Fight")
                     {
-                        writer.WriteLine(contriler.Fight());
+                        writer.WriteLine(controller.Fight());
                     }            
                 }
                 catch (Exception ex)

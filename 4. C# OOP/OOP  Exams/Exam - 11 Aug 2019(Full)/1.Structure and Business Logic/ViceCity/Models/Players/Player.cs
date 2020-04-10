@@ -12,12 +12,13 @@ namespace ViceCity.Models.Players
     {
         private string name;
         private int lifePoints;
-
+        private IRepository<IGun> gunRepository;
         public Player(string name, int lifePoints)
         {
             this.Name = name;
             this.LifePoints = lifePoints;
-            this.GunRepository = new GunRepository();
+
+            this.gunRepository = new GunRepository();
         }
 
         public string Name
@@ -27,29 +28,16 @@ namespace ViceCity.Models.Players
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException("Player's name cannot be null or a whitespace!");
+                    throw new ArgumentNullException("Player's name cannot be null or a whitespace!");
                 }
 
                 this.name = value;
             }
         }
 
-        public bool IsAlive
-        {
-            get
-            {
-                if (LifePoints > 0)
-                {
-                    return true;
-                }
-                else
-                {
-                    return false;
-                }
-            }
-        }
+        public bool IsAlive => LifePoints > 0;
 
-        public IRepository<IGun> GunRepository  { get; private set; }
+        public IRepository<IGun> GunRepository => this.gunRepository;
 
         public int LifePoints
         {
@@ -64,15 +52,13 @@ namespace ViceCity.Models.Players
                 this.lifePoints = value;
             }
         }
+
         public void TakeLifePoints(int points)
         {
-            if (this.LifePoints - points < 0)
+            this.lifePoints -= points;
+            if (this.lifePoints < 0)
             {
-                this.LifePoints = 0;
-            }
-            else
-            {
-                this.LifePoints -= points;
+                this.lifePoints = 0;
             }
         }
     }

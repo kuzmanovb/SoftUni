@@ -6,8 +6,9 @@ namespace ViceCity.Models.Players
 {
     public class CivilPlayer : Player
     {
-        private const int LIFE_POINTS = 100;
-        public CivilPlayer(string name) : base(name, LIFE_POINTS)
+        //Has 50 initial life points.
+        public CivilPlayer(string name)
+            : base(name, 50)
         {
         }
     }

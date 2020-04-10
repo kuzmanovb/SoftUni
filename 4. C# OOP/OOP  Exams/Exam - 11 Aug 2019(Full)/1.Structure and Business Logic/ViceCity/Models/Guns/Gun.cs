@@ -5,7 +5,7 @@ using ViceCity.Models.Guns.Contracts;
 
 namespace ViceCity.Models.Guns
 {
-    public abstract class Gun : IGun
+    public abstract  class Gun : IGun
     {
         private string name;
         private int bulletsPerBarrel;
@@ -30,21 +30,18 @@ namespace ViceCity.Models.Guns
                 this.name = value;
             }
         }
-
         public int BulletsPerBarrel
         {
             get => this.bulletsPerBarrel;
             protected set
             {
-                if (value < 0 )
+                if (value < 0)
                 {
                     throw new ArgumentException("Bullets cannot be below zero!");
                 }
-
                 this.bulletsPerBarrel = value;
             }
         }
-
         public int TotalBullets
         {
             get => this.totalBullets;
@@ -54,26 +51,12 @@ namespace ViceCity.Models.Guns
                 {
                     throw new ArgumentException("Total bullets cannot be below zero!");
                 }
-
                 this.totalBullets = value;
             }
         }
-        public  bool CanFire
-        {
-            get
-            {
-                if (TotalBullets > 0)
-                {
-                    return true;
-                }
-                else
-                {
-                    return false;
-                }
-            }
-        }
+        public bool CanFire => TotalBullets > 0;
 
         public abstract int Fire();
-        
+       
     }
 }

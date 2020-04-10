@@ -6,9 +6,9 @@ namespace ViceCity.Models.Players
 {
     public class MainPlayer : Player
     {
-        private const string NAME = "Tommy Vercetti";
-        private const int LIFE_POINTS = 100;
-        public MainPlayer() : base(NAME, LIFE_POINTS)
+        //Has 100 initial life points and the main player has only one name "Tommy Vercetti". 
+
+        public MainPlayer() : base("Tommy Vercetti", 100)
         {
         }
     }

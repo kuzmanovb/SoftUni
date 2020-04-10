@@ -16,9 +16,11 @@ namespace ViceCity.Repositories
         }
 
         public IReadOnlyCollection<IGun> Models => this.models.AsReadOnly();
+
         public void Add(IGun model)
         {
-            if (!models.Contains(model))
+            var check = models.FirstOrDefault(m => m == model);
+            if(check == null)
             {
                 models.Add(model);
             }
@@ -26,7 +28,12 @@ namespace ViceCity.Repositories
 
         public IGun Find(string name)
         {
-            return models.First(g => g.Name == name);
+            return models.FirstOrDefault(m => m.Name == name);
+        }
+
+        public IGun FirstGun()
+        {
+            return models.FirstOrDefault();
         }
 
         public bool Remove(IGun model)
