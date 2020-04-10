@@ -11,7 +11,7 @@ namespace SantaWorkshop.Models.Dwarfs
 
         public override void Work()
         {
-            this.Energy -= 10;
+            this.Energy -= 15;
         }
     }
 }

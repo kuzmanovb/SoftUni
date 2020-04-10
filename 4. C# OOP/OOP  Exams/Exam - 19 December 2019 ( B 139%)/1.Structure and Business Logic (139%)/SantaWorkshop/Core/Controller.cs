@@ -68,17 +68,31 @@ namespace SantaWorkshop.Core
 
         public string CraftPresent(string presentName)
         {
-            IDwarf bestDwarf = FindBestDwarf();
             var curentPresent = presents.FindByName(presentName);
-            if (bestDwarf.Energy < 50)
-            {
-                throw new InvalidOperationException(ExceptionMessages.DwarfsNotReady);
-            }
-            workshop.Craft(curentPresent, bestDwarf);
+            var bestDwarfs = dwarfs.Models.Where(d => d.Energy >= 50).OrderByDescending(d => d.Energy).ToList();
 
-            if (bestDwarf.Energy <= 0)
+            while (bestDwarfs.Any())
             {
-                dwarfs.Remove(bestDwarf);
+                var currDwarf = bestDwarfs.First();
+                if (bestDwarfs == null)
+                {
+                    throw new InvalidOperationException(ExceptionMessages.DwarfsNotReady);
+                }
+                workshop.Craft(curentPresent, currDwarf);
+
+                if (currDwarf.Energy <= 0)
+                {
+                    bestDwarfs.RemoveAt(0);
+                    dwarfs.Remove(currDwarf);
+                }
+                if (!currDwarf.Instruments.Any(i=> !i.IsBroken()))
+                {
+                    bestDwarfs.RemoveAt(0);
+                }
+                if (curentPresent.IsDone())
+                {
+                    break;
+                }
             }
             if (curentPresent.IsDone())
             {
@@ -108,24 +122,7 @@ namespace SantaWorkshop.Core
 
             return sb.ToString().TrimEnd();
 
-
-
         }
-        private IDwarf FindBestDwarf()
-        {
-            IDwarf bestDwarf = null;
-            var bestSum = 0;
-            foreach (var dwarf in dwarfs.Models)
-            {
-                var sum = dwarf.Energy + dwarf.Instruments.Sum(x => x.Power);
-                if (sum > bestSum)
-                {
-                    bestSum = sum;
-                    bestDwarf = dwarf;
-                }
-            }
 
-            return bestDwarf;
-        }
     }
 }
