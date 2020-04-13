@@ -17,15 +17,15 @@
 <tbody>
 <tr>
 <td align="center" width="33%">Programming C# OOP <br> February 2020 <br> 25.02.2020 - 12.04.2020</td>
-<!---td align="center" width="33%"> Date of issue of certificate: 05.03/2020 <br>Grade: 6.00</td>
-<td align="center" width="33%"><p><a title="Programming C# Advanced " href="https://softuni.bg/certificates/details/77412/d47076cb" target="_blank">Certificate</a></p></td--->   
+<td align="center" width="33%"> Date of issue of certificate: 13.04.2020 <br>Grade: 6.00</td>
+<td align="center" width="33%"><p><a title="Programming C# OOP " href="https://softuni.bg/certificates/details/79046/1a27f328" target="_blank">Certificate</a></p></td>   
 </tr>
 </tbody>
 <!-- Programming Advanced-->
 <tbody>
 <tr>
 <td align="center" width="33%">Programming C# Advanced <br>  January 2020 <br> 14.01.2020 - 22.02.2020</td>
-<td align="center" width="33%"> Date of issue of certificate: 05.03/2020 <br>Grade: 6.00</td>
+<td align="center" width="33%"> Date of issue of certificate: 05.03.2020 <br>Grade: 6.00</td>
 <td align="center" width="33%"><p><a title="Programming C# Advanced " href="https://softuni.bg/certificates/details/77412/d47076cb" target="_blank">Certificate</a></p></td>   
 </tr>
 </tbody>
@@ -33,7 +33,7 @@
 <tbody>
 <tr>
 <td align="center" width="33%">Programming C# Fundamentals <br>  September 2019 <br> 16.09.2019 - 06.12.2019</td>
-<td align="center" width="33%"> Date of issue of certificate: 20.12/2019 <br>Grade: 6.00</td>
+<td align="center" width="33%"> Date of issue of certificate: 20.12.2019 <br>Grade: 6.00</td>
 <td align="center" width="33%"><p><a title="Programming C# Fundamentals" href="https://softuni.bg/certificates/details/74482/f8f20d0d" target="_blank">Certificate</a></p></td>   
 </tr>
 </tbody>
@@ -41,7 +41,7 @@
 <tbody>
 <tr>
 <td align="center" width="33%">Programming C# Basics <br>  April 2019 <br> 06.04.2019 - 15.06.2019</td>
-<td align="center" width="33%">Date of issue of certificate: 18.06/2019 <br>Grade: 6.00</td>
+<td align="center" width="33%">Date of issue of certificate: 18.06.2019 <br>Grade: 6.00</td>
 <td align="center" width="33%"><p><a title="Programming C# Basics" href="https://softuni.bg/certificates/details/67400/4da4e302" target="_blank">Certificate</a></p></td>
         </tr>
         </tbody>
