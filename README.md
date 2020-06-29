@@ -17,8 +17,8 @@
 <tbody>
 <tr>
 <td align="center" width="33%">Programming C# Databases Basics <br> May 2020 <br> 18.05.2020 - 21.06.2020</td>
-<td align="center" width="33%"> <br></td >
-<td align="center" width="33%"><p></a></p></td -->   
+<td align="center" width="33%"> Date of issue of certificate: 28.06.2020 <br> Grade: 6.00 </td >
+<td align="center" width="33%"><p><a title="Programming C# Databases Basics" href="https://softuni.bg/certificates/details/83001/8ab335c9" target="_blank">Certificate</a></p></td -->   
 </tr>
 </tbody>
   <!-- Programming OOP-->
