@@ -13,12 +13,20 @@
 
 <hr>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
-   <!-- C# Databases Basics-->
+    <!-- C# Entity Framework Core-->
+<tbody>
+<tr>
+<td align="center" width="33%">Programming C# Entity Framework Core <br> June 2020 <br> 22.06.2020 - 08.08.2020</td>
+<td align="center" width="33%">  <br>  </td >
+<td align="center" width="33%"><p><a title="Entity Framework Core" href=" " target="_blank""></a></p></td -->   
+</tr>
+</tbody>
+ <!-- C# Databases Basics-->
 <tbody>
 <tr>
 <td align="center" width="33%">Programming C# Databases Basics <br> May 2020 <br> 18.05.2020 - 21.06.2020</td>
-<td align="center" width="33%"> <br></td >
-<td align="center" width="33%"><p></a></p></td -->   
+<td align="center" width="33%"> Date of issue of certificate: 28.06.2020 <br> Grade: 6.00 </td >
+<td align="center" width="33%"><p><a title="Programming C# Databases Basics" href="https://softuni.bg/certificates/details/83001/8ab335c9" target="_blank">Certificate</a></p></td -->   
 </tr>
 </tbody>
   <!-- Programming OOP-->
