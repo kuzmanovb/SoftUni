@@ -28,7 +28,7 @@ namespace P01_StudentSystem.Data
         {
             if (!optionBuilder.IsConfigured)
             {
-                optionBuilder.UseSqlServer(@"Server = BIBI - PC\SQLEXPRESS; Database = SoftUni; Integrated Security = true");
+                optionBuilder.UseSqlServer(@"Server = BIBI-PC\SQLEXPRESS; Database = StudentSystem; Integrated Security = true");
             }
         }
 
