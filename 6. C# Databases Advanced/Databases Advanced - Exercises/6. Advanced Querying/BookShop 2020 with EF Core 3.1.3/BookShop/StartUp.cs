@@ -1,12 +1,11 @@
 ﻿namespace BookShop
 {
     using Data;
-    using Initializer;
     using System;
-    using System.Collections.Generic;
-    using System.Globalization;
     using System.Linq;
     using System.Text;
+    using System.Globalization;
+    using System.Collections.Generic;
 
     public class StartUp
     {

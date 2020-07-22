@@ -1,13 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
 using System.IO;
 using System.Linq;
-using AutoMapper;
-using CarDealer.Data;
-using CarDealer.DTO;
-using CarDealer.Models;
 using Newtonsoft.Json;
+using System.Globalization;
+using System.Collections.Generic;
+
+using CarDealer.DTO;
+using CarDealer.Data;
+using CarDealer.Models;
 
 namespace CarDealer
 {
