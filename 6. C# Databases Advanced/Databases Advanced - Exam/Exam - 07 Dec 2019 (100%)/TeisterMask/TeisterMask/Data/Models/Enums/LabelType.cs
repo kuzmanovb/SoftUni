@@ -9,5 +9,6 @@ namespace TeisterMask.Data.Models.Enums
         JavaAdvanced = 2, 
         EntityFramework = 3, 
         Hibernate = 4
+
     }
 }

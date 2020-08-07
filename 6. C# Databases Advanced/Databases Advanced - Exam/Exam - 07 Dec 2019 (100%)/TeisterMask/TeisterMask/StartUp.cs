@@ -17,7 +17,7 @@
 
             var projectDir = GetProjectDirectory();
 
-           ImportEntities(context, projectDir + @"Datasets/", projectDir + @"ImportResults/");
+            ImportEntities(context, projectDir + @"Datasets/", projectDir + @"ImportResults/");
 
             ExportEntities(context, projectDir + @"ExportResults/");
 
@@ -27,7 +27,7 @@
             }
         }
 
-        private static void ImportEntities(TeisterMaskContext context, string baseDir, string exportDir)
+        private static void ImportEntities(TeisterMaskContext context,string baseDir, string exportDir)
         {
             var projects =
                 DataProcessor.Deserializer.ImportProjects(context,

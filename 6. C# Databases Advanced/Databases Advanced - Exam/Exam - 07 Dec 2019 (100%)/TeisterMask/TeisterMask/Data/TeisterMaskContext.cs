@@ -29,17 +29,7 @@
             modelBuilder.Entity<EmployeeTask>(entity =>
             {
 
-                entity.HasKey(e => new { e.TaskId, e.EmployeeId });
-
-                entity.HasOne(et => et.Task)
-                .WithMany(t => t.EmployeesTasks)
-                .HasForeignKey(et => et.TaskId)
-                .OnDelete(DeleteBehavior.Restrict);
-
-                entity.HasOne(et => et.Employee)
-                .WithMany(e => e.EmployeesTasks)
-                .HasForeignKey(et => et.EmployeeId)
-                .OnDelete(DeleteBehavior.Restrict);
+                entity.HasKey(k => new { k.EmployeeId, k.TaskId });
 
             });
         }

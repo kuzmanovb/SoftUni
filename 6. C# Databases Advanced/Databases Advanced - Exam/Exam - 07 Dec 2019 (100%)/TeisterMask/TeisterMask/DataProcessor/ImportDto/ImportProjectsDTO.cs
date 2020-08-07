@@ -1,14 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Text;
+
 using System.Xml.Serialization;
-using TeisterMask.Data.Models.Enums;
 
 namespace TeisterMask.DataProcessor.ImportDto
 {
     [XmlType("Project")]
-    public class ProjectDTO
+    public class ImportProjectsDTO
     {
         [Required]
         [MinLength(2)]
@@ -52,8 +50,6 @@ namespace TeisterMask.DataProcessor.ImportDto
         [Required]
         [XmlElement("LabelType")]
         public int LabelType { get; set; }
-
-
 
     }
 }

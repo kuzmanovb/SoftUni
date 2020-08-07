@@ -1,12 +1,18 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Text;
 
-using Newtonsoft.Json;
-
-namespace TeisterMask.DataProcessor.ImportDto
+namespace TeisterMask.Data.Models
 {
-    public class EmployeesDTO
+    public class Employee
     {
+        public Employee()
+        {
+            this.EmployeesTasks = new HashSet<EmployeeTask>();
+        }
+        [Key]
+        public int Id { get; set; }
 
         [Required]
         [MinLength(3)]
@@ -22,11 +28,8 @@ namespace TeisterMask.DataProcessor.ImportDto
         [RegularExpression(@"^\d{3}-\d{3}-\d{4}$")]
         public string Phone { get; set; }
 
-        [JsonProperty("Tasks")]
-        public List<int> TasksId { get; set; }
+        public ICollection<EmployeeTask> EmployeesTasks { get; set; }
+
 
     }
-
-
-    
 }

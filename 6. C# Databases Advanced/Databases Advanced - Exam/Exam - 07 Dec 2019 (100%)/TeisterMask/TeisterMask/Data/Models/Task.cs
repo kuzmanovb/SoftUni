@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text;
 using TeisterMask.Data.Models.Enums;
 
 namespace TeisterMask.Data.Models
@@ -36,11 +37,9 @@ namespace TeisterMask.Data.Models
         [Required]
         [ForeignKey("Project")]
         public int ProjectId { get; set; }
-
         public Project Project { get; set; }
 
         public ICollection<EmployeeTask> EmployeesTasks { get; set; }
-
 
     }
 }

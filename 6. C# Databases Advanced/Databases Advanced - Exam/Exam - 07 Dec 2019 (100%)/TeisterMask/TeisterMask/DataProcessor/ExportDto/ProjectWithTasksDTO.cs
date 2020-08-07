@@ -4,31 +4,29 @@ using System.Xml.Serialization;
 namespace TeisterMask.DataProcessor.ExportDto
 {
     [XmlType("Project")]
-    public class ProjectWithTaskDTO
+    public class ProjectWithTasksDTO
     {
-        [XmlAttribute("TasksCount")]
+       [XmlAttribute("TasksCount")]
         public int TasksCount { get; set; }
 
-        [XmlElement("ProjectName")]
+        [XmlElement("")]
         public string ProjectName { get; set; }
 
-        [XmlElement("HasEndDate")]
+        [XmlElement("")]
         public string HasEndDate { get; set; }
 
         [XmlArray("Tasks")]
-        public List<TaskToProjectDTO> Tasks { get; set; }
-
+        public List<TaskDTO> Tasks { get; set; }
     }
 
     [XmlType("Task")]
-    public class TaskToProjectDTO
+    public class TaskDTO
     {
         [XmlElement("Name")]
         public string Name { get; set; }
 
         [XmlElement("Label")]
         public string Label { get; set; }
-
 
     }
 }
