@@ -1,18 +1,19 @@
 ﻿namespace SoftJail.DataProcessor
 {
 
-    using Data;
+    using System;
+    using System.Text;
+    using System.Globalization;
+    using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
+
     using Newtonsoft.Json;
+
+    using Data;
+    using SoftJail.XMLHelper;
     using SoftJail.Data.Models;
     using SoftJail.Data.Models.Enums;
     using SoftJail.DataProcessor.ImportDto;
-    using SoftJail.XMLHelper;
-    using System;
-    using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
-    using System.Globalization;
-    using System.Linq;
-    using System.Text;
 
     public class Deserializer
     {
