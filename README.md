@@ -13,6 +13,14 @@
 
 <hr>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+       <!-- C# Web Basics-->
+<tbody>
+<tr>
+<td align="center" width="33%">Programming C# Web Basics <br> September 2020 <br> 15.09.2020 - 20.10.2020 </td>
+<td align="center" width="33%"> <br>  </td >
+<td align="center" width="33%"><p><a title="C# Web Basics" href=" " target="_blank"> </a></p></td -->   
+</tr>
+</tbody>
     <!-- C# Entity Framework Core-->
 <tbody>
 <tr>
