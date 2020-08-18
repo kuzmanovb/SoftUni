@@ -17,8 +17,8 @@
 <tbody>
 <tr>
 <td align="center" width="33%">Programming C# Entity Framework Core <br> June 2020 <br> 22.06.2020 - 08.08.2020</td>
-<td align="center" width="33%">  <br>  </td >
-<td align="center" width="33%"><p><a title="Entity Framework Core" href=" " target="_blank""></a></p></td -->   
+<td align="center" width="33%"> Date of issue of certificate: 18.08.2020 <br> Grade: 6.00 </td >
+<td align="center" width="33%"><p><a title="Entity Framework Core" href="https://softuni.bg/certificates/details/86332/87d4a905" target="_blank">Certificate</a></p></td -->   
 </tr>
 </tbody>
  <!-- C# Databases Basics-->
