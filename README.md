@@ -13,12 +13,20 @@
 
 <hr>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
-       <!-- C# Web Basics-->
+             <!-- C# Web Basics-->
 <tbody>
 <tr>
-<td align="center" width="33%">Programming C# Web Basics <br> September 2020 <br> 15.09.2020 - 20.10.2020 </td>
-<td align="center" width="33%"> <br>  </td >
-<td align="center" width="33%"><p><a title="C# Web Basics" href=" " target="_blank"> </a></p></td -->   
+<td align="center" width="33%">Programming C# ASP.NET Core <br> September 2020 <br> 27.10.2020 - 29.12.2020 </td>
+<td align="center" width="33%"> <br> </td >
+<td align="center" width="33%"><p><a title="C# Web Basics" href="" target="_blank"> </a></p></td -->   
+</tr>
+</tbody>
+      <!-- C# Web Basics-->
+<tbody>
+<tr>
+<td align="center" width="33%">Programming C# Web Basics <br> September 2020 <br> 15.09.2020 - 26.10.2020 </td>
+<td align="center" width="33%"> <br> Date of issue of certificate: 09.11.2020 <br> Grade: 6.00 </td >
+<td align="center" width="33%"><p><a title="C# Web Basics" href="https://softuni.bg/certificates/details/91055/571054c5" target="_blank">Certificate</a></p></td -->   
 </tr>
 </tbody>
     <!-- C# Entity Framework Core-->
