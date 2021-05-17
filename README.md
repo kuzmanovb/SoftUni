@@ -13,7 +13,15 @@
 
 <hr>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
-             <!-- C# ASP.Net Core-->
+              <!-- React JS-->
+<tbody>
+<tr>
+<td align="center" width="33%">Programming ReactJS <br> September 2020 <br> 01.03.2021 - 11.04.2021 </td>
+<td align="center" width="33%"> <br> Date of issue of certificate: 21.04.2021 <br> Grade: 6.00 </td >
+<td align="center" width="33%"><p><a title="ReactJS" href="https://softuni.bg/certificates/details/105614/5de69f57" target="_blank">Certificate</a></p></td -->   
+</tr>
+</tbody>
+ <!-- C# ASP.Net Core-->
 <tbody>
 <tr>
 <td align="center" width="33%">Programming C# ASP.NET Core <br> September 2020 <br> 27.10.2020 - 29.12.2020 </td>
